@@ -29,7 +29,7 @@ Follow the steps below to get your project up and running.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nextjs-tailwind-starter.git
+git clone https://github.com/SAMEER563/nextjs15_tailwind_starter.git
 ```
 
 ### 2. Install dependencies
@@ -37,7 +37,7 @@ git clone https://github.com/your-username/nextjs-tailwind-starter.git
 Navigate to the project folder and install the required dependencies using npm or yarn:
 
 ```bash
-cd nextjs-tailwind-starter
+cd nextjs15_tailwind_starter
 npm install
 # OR
 yarn install
