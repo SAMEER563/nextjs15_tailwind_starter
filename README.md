@@ -2,11 +2,11 @@
 
 ---
 
-# Next.js 15 + Tailwind CSS Starter Template
+# Next.js 15 + Tailwind CSS with Typescript Starter Template
 
-Welcome to the **Next.js 15 + Tailwind CSS Starter Template**! 🚀
+Welcome to the **Next.js 15 + Tailwind CSS with Typescript Starter Template**! 🚀
 
-This is a boilerplate starter project that helps you quickly set up a Next.js 15 application with Tailwind CSS, saving you time on initial configuration. Whether you're a beginner or an experienced developer, this template will help you hit the ground running for your Next.js and Tailwind CSS-based projects.
+This is a boilerplate starter project that helps you quickly set up a Next.js 15 application , Tailwind CSS with Typescript, saving you time on initial configuration. Whether you're a beginner or an experienced developer, this template will help you hit the ground running for your Next.js and Tailwind CSS-based projects.
 
 ---
 
